@@ -13,6 +13,7 @@ with:
 - BLOCKCHAIN
 - KUBERNETES
 - DOCKER
+- CENTERED DIV
 
 # INSTALL NOW TO MAKE YOUR PROJECT BETTER
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀

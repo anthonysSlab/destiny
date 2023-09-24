@@ -2,6 +2,14 @@ static mut COUNTER: u32 = 0;
 static mut COUNTER2: u32 = 0;
 static mut RESULT: u32 = 0;
 
+macro_rules! center {
+    () => {
+        panic!("There is no div to center");
+    };
+}
+
+
+
 unsafe fn add() {
     loop {
         if COUNTER != 0 {
