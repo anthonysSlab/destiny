@@ -1,0 +1,54 @@
+[package]
+name = "blazing_fast_hell"
+version = "69.42.0"
+edition = "2021"
+authors = ["me"]
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+serde_yaml = "0.9"
+serde_derive = "1.0"
+serde_repr = "0.1"
+serde_bytes = "0.11"
+serde_cbor = "0.11"
+tokio = { version = "1.32", features = ["full"] }
+tokio-util = "0.7"
+reqwest = { version = "0.11", features = ["json"] }
+wgpu = "0.17"
+crossterm = "0.27"
+bevy = { version = "0.11"}
+winit = "0.28"
+libc = "0.2"
+axum = "0.6"
+actix-web = "4.4"
+rocket = "0.4"
+vegemite = "0.1"
+proc-macro2 = "1.0"
+hashbrown = "0.14"
+parking_lot = "0.12"
+slab = "0.4"
+hyper = "0.14"
+futures = "0.3"
+http = "0.2"
+image = "0.24"
+plotters = "0.3"
+rand = "0.8"
+raylib = "3.7"
+rayon = "1.8"
+syn = "2.0"
+quote = "1.0"
+chrono = "0.4"
+uuid = "1.4"
+num = "0.4"
+bitflags = "2.4"
+itoa = "1.0"
+lazy_static = "1.4"
+regex = "1.9"
+regex-syntax = "0.7"
+dyn-clone = "1.0"
+pest = "2.7"
