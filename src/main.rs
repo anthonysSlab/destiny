@@ -29,12 +29,14 @@ unsafe fn add() {
 }
 
 fn main(){
-    unsafe {
-        COUNTER = 1;
-        COUNTER2 = 2;
-        add();
-        println!("Hello, world! {}", RESULT);
-    }
+        if if let Some(true) = if if if true { true } else { false } == true { true } else { true } { Some(true) } else { Some(false) }.map(|i| !i) { { unsafe { 0u8 == 0 } } } else { { unsafe { 0u8 != 0 } } } == false {
+        unsafe {
+            COUNTER = 1;
+            COUNTER2 = 2;
+            add();
+            println!("Hello, world! {}", RESULT);
+        }
+    }    
 }
 
 
