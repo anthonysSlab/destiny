@@ -1,5 +1,5 @@
-# THE FUTURE 
-# RUST
+# NOW IS THE FUTURE 
+# RUST (🚀)
 
 # THIS CRATE BRINGS SPEED TO YOUR PROJECT!!!!! 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 with:
